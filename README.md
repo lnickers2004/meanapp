@@ -1,2 +1,2 @@
 # meanapp
-Mean Stack Web Application, Travis Tidwell Tutorial.
+Mean Stack Web Application
